@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Black and White Theme Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_dark">#FF333333</color>
+    <color name="gray_medium">#FF666666</color>
+    <color name="gray_light">#FF999999</color>
+    <color name="gray_lighter">#FFCCCCCC</color>
+    
+    <!-- Background Colors -->
+    <color name="background_dark">#FF1A1A1A</color>
+    <color name="background_light">#FFFFFFFF</color>
+    <color name="card_background">#FF2A2A2A</color>
+    
+    <!-- Accent Colors (BW only) -->
+    <color name="accent_primary">#FFFFFFFF</color>
+    <color name="accent_secondary">#FFCCCCCC</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#FFCCCCCC</color>
+    <color name="text_hint">#FF999999</color>
+    
+    <!-- Primary color for UI elements -->
+    <color name="primary_color">#FFFFFFFF</color>
+    
+    <!-- Legacy colors for compatibility -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+</resources>

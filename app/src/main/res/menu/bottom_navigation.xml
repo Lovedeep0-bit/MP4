@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_videos"
+        android:icon="@drawable/ic_video_placeholder"
+        android:title="Videos" />
+    <item
+        android:id="@+id/navigation_folders"
+        android:icon="@drawable/ic_folder"
+        android:title="Folders" />
+    <item
+        android:id="@+id/navigation_playlists"
+        android:icon="@drawable/ic_playlist"
+        android:title="Playlists" />
+</menu>
